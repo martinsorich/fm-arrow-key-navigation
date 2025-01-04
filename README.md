@@ -10,7 +10,9 @@ Pressing → (right arrow) is similar to using the tab key and will move the cur
 
 ↑ ↓ keys will traverse the records.
 
-## Why this Techinque Works Well
+For convenience all the content in the field is selected to be copied or modified.
+
+## Why this Technique Works Well
 
 The arrow keys are grouped together on the keyboard and allow for quick field/record navigation.
 
