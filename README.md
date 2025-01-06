@@ -4,7 +4,7 @@ A FileMaker Pro technique demonstrating the use of arrow keys with layout script
 
 ## How to Use
 
-Open the file `ArrowKeyNav.fmp12` and start by clicking into any field.
+Open the file `ArrowKeyNav.fmp12` and start by entering into any field.
 
 Pressing → (right arrow) is similar to using the tab key and will move the cursor into the adjacent field on the right and higlight the contents of the field. The ← moves the cursor in the opposite (left) direction.
 
