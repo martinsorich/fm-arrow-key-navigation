@@ -18,7 +18,7 @@ The arrow keys are grouped together on the keyboard and allow for quick field/re
 
 ## How is this Accomplished
 
-Key presses are evaluated up by the `onLayoutKeystroke` layout script trigger, which is set to the `Nav Records` script. Details of the script are below.
+Key presses trigger the `onLayoutKeystroke` layout script trigger, which is set to the `Nav Records` script. Details of the script are below.
 
 Object names (fields) are hard coded and passed into the `Nav Records` script using an JSON Array, derived by the expression below, and stored in a variable named `$_objectNames`
 
