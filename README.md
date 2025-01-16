@@ -12,11 +12,11 @@ Pressing → (right arrow) is similar to using the tab key and will move the cur
 
 For convenience all the content in the field is selected to be copied or modified.
 
-## Why this Technique Works Well
+## Why this Technique Works Well?
 
 The arrow keys are grouped together on the keyboard and allow for quick field/record navigation.
 
-## How is this Accomplished
+## How is this Accomplished?
 
 Key presses trigger the `onLayoutKeystroke` layout script trigger, which is set to the `Nav Records` script. Details of the script are below.
 
